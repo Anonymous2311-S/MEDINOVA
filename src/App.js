@@ -602,7 +602,8 @@ function App() {
             {/* About Description in Middle */}
             <Box textAlign="center" maxW="550px" mx="auto">
               <Text lineHeight="tall">
-                Made with 🤍 by Shivam Mishra.
+                Made with 🤍 by Shivam Mishra
+                Insta - _shiv4am23
               </Text>
             </Box>
 
